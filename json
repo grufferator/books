@@ -1,26 +1,15 @@
 [
-  {
-    "Author": "Seneca",
-    "Book Name": "Scrisori catre Luciu",
-    "Country of Origin": "Italy",
-    "Year Published": 65
-  },
-  {
-    "Author": "Вольтер",
-    "Book Name": "Философские сочинения",
-    "Country of Origin": "France",
-    "Year Published": 1765
-  },
-  {
-    "Author": "James Fenimore",
-    "Book Name": "Ultimul Mohican",
-    "Country of Origin": "United States",
-    "Year Published": 1826
-  },
-  {
-    "Author": "Victor Hugo",
-    "Book Name": "Notre-Dame de Paris",
-    "Country of Origin": "France",
-    "Year Published": 1831
-  },
+    {
+        "Author": "Seneca",
+        "Book Name": "Scrisori catre Luciu",
+        "Country of Origin": "Italy",
+        "Year Published": 65
+    },
+    {
+        "Author": "Вольтер",
+        "Book Name": "Философские сочинения",
+        "Country of Origin": "France",
+        "Year Published": 1765
+    },
+ 
 ]
